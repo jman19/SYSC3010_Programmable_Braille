@@ -1,0 +1,9 @@
+[submodule "MasterPi"]
+	path = MasterPi
+	url = https://github.com/jman19/MasterPi.git
+[submodule "AndroidApp"]
+	path = AndroidApp
+	url = https://github.com/OmarJemal/Text2Braille.git
+[submodule "slavePi"]
+	path = slavePi
+	url = https://github.com/SamC-11/SlavePi-Code.git
