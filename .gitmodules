@@ -7,3 +7,6 @@
 [submodule "slavePi"]
 	path = slavePi
 	url = https://github.com/SamC-11/SlavePi-Code.git
+[submodule "MasterPiButton"]
+	path = MasterPiButton
+	url = https://github.com/jman19/MasterPiButton.git
