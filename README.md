@@ -1,9 +1,7 @@
 # SYSC3010_Programmable_Braille
 
-# How to get all the code
+# How to get all the code/update SubModules
   1. clone the project
   2. cd into project
-  3. git submodule init
-# How to update SubModule
-  1. cd into project
-  2. git submodule update
+  3. git submodule update --init
+
