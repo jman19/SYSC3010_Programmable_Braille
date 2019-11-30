@@ -10,3 +10,6 @@
 [submodule "MasterPiButton"]
 	path = MasterPiButton
 	url = https://github.com/jman19/MasterPiButton.git
+[submodule "BrailleBoard"]
+	path = BrailleBoard
+	url = https://github.com/SamC-11/Braille-Board.git
