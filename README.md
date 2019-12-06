@@ -1,7 +1,7 @@
 # SYSC3010_Programmable_Braille
 The programmable braille board is an innovative device that can increase accessibility for the visually impaired.
 
-Authors:  
+##### Authors:  
   MasterPI: Jason  
   MasterPIButton: Jason  
   SlavePI: Jason (Restful Interface), Sam (rest of the code)  
