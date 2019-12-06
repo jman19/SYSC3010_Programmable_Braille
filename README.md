@@ -12,6 +12,7 @@ The programmable braille board is an innovative device that can increase accessi
   2. cd into project
   3. git submodule update --init
 # Setting up Master PI
+  #### dependencies: Maven
   1. Copy the folder MasterPi onto the masterPi 
   2. Cd into the MasterPi folder on the masterPi run the command “mvn spring-boot:run” this will start the server 
   3. (optional) there are configurable settings located in “src/main/resources/application.properties” these settings allow you to
