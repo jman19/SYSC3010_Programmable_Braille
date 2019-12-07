@@ -46,6 +46,12 @@ The programmable braille board is an innovative device that can increase accessi
   5. Connect your Arduino via USB
   6. Upload the code onto the board
   7. Turn on the power supply
+# Setting up the Android App
+  #### assuming Flutter is installed, and an Android Phone with the USB debugging enabled  *
+  1. Clone the project
+  2. Cd into the project
+  3. Run the command “Flutter run”
+
 # Project Images
 ![Imgur](https://i.imgur.com/QQlkzxH.jpg)
 ![Imgur](https://i.imgur.com/98bZlTg.jpg)
